@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### ⚡ Smart Student Transportation System
+### Smart Student Transportation System
 
 *A modern Android application for intelligent college bus tracking and transport management.*
 
@@ -10,14 +10,13 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Android-22c55e?style=for-the-badge\&logo=android\&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Kotlin-7c3aed?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![UI](https://img.shields.io/badge/UI-Jetpack_Compose-0ea5e9?style=for-the-badge)
 ![Backend](https://img.shields.io/badge/Backend-Firebase-f97316?style=for-the-badge\&logo=firebase\&logoColor=white)
 
 </div>
 
 ---
 
-## 🌌 Overview
+## Overview
 
 **Vidyarthi-Bus** is a smart transportation mobile application developed using **Android Studio** and **Kotlin** to simplify and modernize student bus management.
 
@@ -29,11 +28,11 @@ The application helps students:
 * 🚍 Monitor live bus movement
 * 📱 Access a clean and user-friendly interface
 
-Designed with a modern dark-themed interface and smooth navigation, the project focuses on improving daily transportation convenience and safety for students.
+Designed with a modern interface and smooth navigation, the project focuses on improving daily transportation convenience and safety for students.
 
 ---
 
-## ✨ Features
+## Features
 
 ### 🚏 Live Bus Tracking
 
@@ -53,7 +52,7 @@ Provides transport-related insights and crowd forecast visuals.
 
 ### 🎨 Modern UI Design
 
-Built with Jetpack Compose featuring a sleek dark interface and responsive components.
+Built with Jetpack Compose featuring a sleek and responsive interface.
 
 ---
 
@@ -70,43 +69,12 @@ Built with Jetpack Compose featuring a sleek dark interface and responsive compo
 
 ---
 
-## 📂 Project Structure
-
-```plaintext
-VidyarthiBus
- ┣ app
- ┃ ┣ src
- ┃ ┃ ┣ main
- ┃ ┃ ┃ ┣ java
- ┃ ┃ ┃ ┣ res
- ┃ ┃ ┃ ┗ AndroidManifest.xml
- ┣ gradle
- ┣ build.gradle.kts
- ┣ settings.gradle.kts
- ┗ README.md
-```
-
----
-
 ## 🚀 Future Enhancements
 
 * AI-based bus arrival prediction
 * GPS integration with real-time sync
 * Student authentication system
-* Cloud database optimization
 * Push notification enhancements
-
----
-
-## 📱 Application Modules
-
-* Splash Screen
-* Login Screen
-* Home Dashboard
-* Live Tracking Screen
-* Alerts Screen
-* Profile Screen
-* Analytics Components
 
 ---
 
@@ -114,12 +82,12 @@ VidyarthiBus
 
 ### Shravanthi K
 
-Android Developer | Kotlin Enthusiast | UI Designer
+Android Developer | Kotlin Enthusiast
 
 ---
 
 <div align="center">
 
-### 🚀 Smart Travel for Smarter Students
+**Smart Travel for Smarter Students**
 
 </div>
