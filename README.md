@@ -8,9 +8,9 @@
 
 <br>
 
-![Platform](https://img.shields.io/badge/Platform-Android-22c55e?style=for-the-badge\&logo=android\&logoColor=white)
-![Language](https://img.shields.io/badge/Language-Kotlin-7c3aed?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-Firebase-f97316?style=for-the-badge\&logo=firebase\&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Android-374151?style=for-the-badge\&logo=android\&logoColor=white)
+![Language](https://img.shields.io/badge/Language-Kotlin-4b5563?style=for-the-badge\&logo=kotlin\&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend-Firebase-6b7280?style=for-the-badge\&logo=firebase\&logoColor=white)
 
 </div>
 
